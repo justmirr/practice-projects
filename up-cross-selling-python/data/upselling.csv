@@ -1,0 +1,6 @@
+user_id,product_viewed,product_price,user_income,product_purchased
+1,Phone_X,20000,45000,Phone_X
+2,Phone_Y,25000,80000,Phone_Y_Pro
+3,Phone_X,20000,90000,Phone_X_Pro
+4,Phone_Y,25000,26000,Phone_Y
+5,Phone_Z,18000,70000,Phone_Z_Pro
