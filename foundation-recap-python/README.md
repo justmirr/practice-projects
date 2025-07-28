@@ -14,7 +14,8 @@ foundation-recap-python/
 ├── fr-os-uuid-datetime # Utility libraries - os, uuid, datetime
 ├── fr-dataclasses # Usage of Python dataclasses
 ├── fr-typing # Type hinting with typing module
-└── fr-mock-app/ # FastAPI mock app that brings all above into one combined example
+├── mock-app/ # FastAPI mock app that brings all above into one combined example
+└── fast-api-app/ # FastAPI app to revise basics - endpoints, requests
 ```
 
 ---
