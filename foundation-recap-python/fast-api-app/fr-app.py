@@ -34,3 +34,9 @@ def add_employee(emp: Employee):
 @app.get("/search/{id}")
 def search_employee(id: int):
     return [emp for emp in EMPLOYEES if emp.id == id]
+
+@app.delete("/delete/{id}")
+def delete_employee(id: int):
+    for emp in EMPLOYEES:
+        if emp.id == id:
+            EMPLOYEES.remove(emp)

@@ -1,6 +1,6 @@
 # foundation-recap-python
 
-This repository contains practice examples that recap foundational skills essential for GenAI solutioning and building FastAPI microservices.
+This directory contains practice examples that recap foundational skills essential for GenAI solutioning and building FastAPI microservices.
 
 Each part focuses on a specific concept, and culminates in a mock FastAPI app that brings everything together.
 
